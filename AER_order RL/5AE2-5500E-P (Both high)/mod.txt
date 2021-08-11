@@ -1,0 +1,4 @@
+name 5AE2-5500E-P (Both high)
+length 4
+couplerOffset 58
+material2 unlit

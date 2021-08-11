@@ -1,0 +1,4 @@
+name AEC-24000-F
+length 6
+locomotive false
+couplerOffset 63

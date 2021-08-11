@@ -1,0 +1,4 @@
+name AEC-24000-C
+length 6
+couplerOffset 63
+material4 unlit

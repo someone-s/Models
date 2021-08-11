@@ -1,0 +1,4 @@
+name 5AE2-4000D-P
+length 4
+couplerOffset 58
+material2 unlit
